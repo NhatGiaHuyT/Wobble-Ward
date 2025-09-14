@@ -1,0 +1,25 @@
+# Unity generated files
+Library/
+Temp/
+obj/
+Build/
+ExportedObj/
+
+# Logs
+*.log
+
+# Project settings and user settings
+ProjectSettings.asset
+UserSettings/
+
+# Packages (ignore contents, but include manifest and lock file)
+Packages/*
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+# Visual Studio / Rider files
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
