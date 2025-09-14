@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fefa34771f193c945a532ef534eda47c, type: 3}
+  m_Name: EnemyData_Basic
+  m_EditorClassIdentifier: Assembly-CSharp::Entities.Enemy.EnemyData
+  enemyId: enemy_basic
+  displayName: Basic Enemy
+  maxHealth: 1
+  moveSpeed: 1
+  xpValue: 5
+  scoreValue: 1
+  previewSprite: {fileID: -1444980827, guid: 3678b32267ada854fb1cb398e21843c9, type: 3}
+  prefab: {fileID: 555593404828117213, guid: ee8ad969e55ef04418f5daef5fd5a745, type: 3}
+  collisionRadius: 0.25
+  spawnScale: {x: 1, y: 1, z: 1}
+  behavior: 0
+  specialSpawnChance: 0
+  notes: 
